@@ -26,9 +26,19 @@ img {
     height: 400px;
 }
 
+h2 {
+    color: yellowgreen;
+    background-color: black;
+}
+
 .home {
     background-color: black;
     font-size: 32px;
+}
+
+.desc-title {
+    color: crimson;
+    text-align: center;
 }
 
 #main-title {
