@@ -30,3 +30,9 @@ img {
     background-color: black;
     font-size: 32px;
 }
+
+#main-title {
+    color: #dc143c;
+    font-weight: lighter;
+    font-size: 36px;
+}
