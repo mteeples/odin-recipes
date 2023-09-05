@@ -19,6 +19,8 @@ li,
 a {
     font-size: 24px;
     color: greenyellow;
+    text-decoration: none;
+    background-color: black;
 }
 
 img {
@@ -39,6 +41,22 @@ h2 {
 .desc-title {
     color: crimson;
     text-align: center;
+}
+
+.somediv {
+    border: 2px solid white;
+    margin: 48px;
+    padding: 12px;
+}
+
+.recipe {
+    list-style: none;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
 }
 
 #main-title {
